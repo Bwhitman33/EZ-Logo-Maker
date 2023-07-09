@@ -1,6 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
-const createLogo = require("./utils/createSVG");
+const createLogo = require("./lib/createSVG");
 
 const prompts = [
     {
