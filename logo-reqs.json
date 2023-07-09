@@ -1,6 +1,6 @@
 {
- "shape": "Circle",
- "shapecolor": "Red",
+ "shape": "Square",
+ "shapecolor": "blue",
  "text": "BTW",
- "textcolor": "Black"
+ "textcolor": "black"
 }
