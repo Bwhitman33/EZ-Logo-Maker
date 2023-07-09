@@ -12,7 +12,7 @@
   <br> 
   <img src="assets/triangle.jpg">
   <br>
-  <a href="https://youtu.be/LzgAlT_LSsU"> Youtube link for Demo! </a>
+  <a href="https://youtu.be/ns3Y262kjRE"> Youtube link for Demo! </a>
   
   # Table of Contents
   - [Installation](#installation)
